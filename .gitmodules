@@ -1,0 +1,9 @@
+[submodule "tools/GenSMBIOS"]
+	path = tools/GenSMBIOS
+	url = https://github.com/corpnewt/GenSMBIOS.git
+[submodule "tools/MountEFI"]
+	path = tools/MountEFI
+	url = https://github.com/corpnewt/MountEFI.git
+[submodule "tools/ProperTree"]
+	path = tools/ProperTree
+	url = https://github.com/corpnewt/ProperTree.git
