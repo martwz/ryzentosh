@@ -7,3 +7,6 @@
 [submodule "tools/ProperTree"]
 	path = tools/ProperTree
 	url = https://github.com/corpnewt/ProperTree.git
+[submodule "tools/OCConfigCompare"]
+	path = tools/OCConfigCompare
+	url = https://github.com/corpnewt/OCConfigCompare.git
