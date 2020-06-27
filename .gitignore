@@ -38,5 +38,7 @@ Temporary Items
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
+
 .gitsecret/keys/random_seed
 !*.secret
+EFI/OC/config.plist
